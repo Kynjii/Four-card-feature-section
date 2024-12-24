@@ -19,7 +19,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/a-response-social-profile-card-with-hover-effects-9P5nhV55RQ](https://www.frontendmentor.io/solutions/a-response-social-profile-card-with-hover-effects-9P5nhV55RQ)
-- Live Site URL: [https://enchanting-tulumba-d2b66c.netlify.app](https://enchanting-tulumba-d2b66c.netlify.app)
+- Live Site URL: [https://famous-marzipan-e8b86e.netlify.app](https://famous-marzipan-e8b86e.netlify.app)
 
 ## My process
 

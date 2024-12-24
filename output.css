@@ -810,4 +810,8 @@ video {
   .xs\:self-center {
     align-self: center;
   }
+
+  .xs\:text-\[2\.25rem\] {
+    font-size: 2.25rem;
+  }
 }
