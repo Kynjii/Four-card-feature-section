@@ -26,8 +26,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
+- Tailwind CSS
 - Flexbox
 - Mobile-first workflow
 - Hover/Focus states
-- Transitions
