@@ -18,7 +18,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/a-response-social-profile-card-with-hover-effects-9P5nhV55RQ](https://www.frontendmentor.io/solutions/a-response-social-profile-card-with-hover-effects-9P5nhV55RQ)
+- Solution URL: [https://www.frontendmentor.io/solutions/a-four-card-feature-section-with-tailwind-css-KHNUSmsR_h](https://www.frontendmentor.io/solutions/a-four-card-feature-section-with-tailwind-css-KHNUSmsR_h)
 - Live Site URL: [https://famous-marzipan-e8b86e.netlify.app](https://famous-marzipan-e8b86e.netlify.app)
 
 ## My process
